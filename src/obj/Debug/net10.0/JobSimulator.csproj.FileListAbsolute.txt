@@ -1,0 +1,15 @@
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\obj\Debug\net10.0\JobSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\obj\Debug\net10.0\JobSimulator.AssemblyInfoInputs.cache
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\obj\Debug\net10.0\JobSimulator.AssemblyInfo.cs
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\obj\Debug\net10.0\JobSimulator.csproj.CoreCompileInputs.cache
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\obj\Debug\net10.0\JobSimulator.sourcelink.json
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\bin\Debug\net10.0\JobSimulator.exe
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\bin\Debug\net10.0\JobSimulator.deps.json
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\bin\Debug\net10.0\JobSimulator.runtimeconfig.json
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\bin\Debug\net10.0\JobSimulator.dll
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\bin\Debug\net10.0\JobSimulator.pdb
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\obj\Debug\net10.0\JobSimulator.dll
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\obj\Debug\net10.0\refint\JobSimulator.dll
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\obj\Debug\net10.0\JobSimulator.pdb
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\obj\Debug\net10.0\JobSimulator.genruntimeconfig.cache
+C:\Users\giovanne.nascimento\Projetos\Estudos\github-flow-lab\src\obj\Debug\net10.0\ref\JobSimulator.dll

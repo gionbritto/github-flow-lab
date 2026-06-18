@@ -1,0 +1,5 @@
+# Da raiz do repo: 
+dotnet run --project src/JobSimulator.csproj 
+
+# Se quiser simular um publish real: 
+dotnet publish src/JobSimulator.csproj -c Release -o ./publish

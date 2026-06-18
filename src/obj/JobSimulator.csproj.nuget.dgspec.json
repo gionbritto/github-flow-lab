@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giovanne.nascimento\\OneDrive - DEMARCO PARTICIPACOES E SERVICOS LTDA\\PROJETOS E BACKLOGS\\10 - PROJETOS E PROPOSTAS DE MELHORIAS(ENTREGA DE VALOR)\\5 - NOVO FLUXO PBIs E BRANCHS\\github-flow-lab\\src\\JobSimulator.csproj": {}
+    "C:\\Users\\giovanne.nascimento\\Projetos\\Estudos\\github-flow-lab\\src\\JobSimulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giovanne.nascimento\\OneDrive - DEMARCO PARTICIPACOES E SERVICOS LTDA\\PROJETOS E BACKLOGS\\10 - PROJETOS E PROPOSTAS DE MELHORIAS(ENTREGA DE VALOR)\\5 - NOVO FLUXO PBIs E BRANCHS\\github-flow-lab\\src\\JobSimulator.csproj": {
+    "C:\\Users\\giovanne.nascimento\\Projetos\\Estudos\\github-flow-lab\\src\\JobSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giovanne.nascimento\\OneDrive - DEMARCO PARTICIPACOES E SERVICOS LTDA\\PROJETOS E BACKLOGS\\10 - PROJETOS E PROPOSTAS DE MELHORIAS(ENTREGA DE VALOR)\\5 - NOVO FLUXO PBIs E BRANCHS\\github-flow-lab\\src\\JobSimulator.csproj",
+        "projectUniqueName": "C:\\Users\\giovanne.nascimento\\Projetos\\Estudos\\github-flow-lab\\src\\JobSimulator.csproj",
         "projectName": "JobSimulator",
-        "projectPath": "C:\\Users\\giovanne.nascimento\\OneDrive - DEMARCO PARTICIPACOES E SERVICOS LTDA\\PROJETOS E BACKLOGS\\10 - PROJETOS E PROPOSTAS DE MELHORIAS(ENTREGA DE VALOR)\\5 - NOVO FLUXO PBIs E BRANCHS\\github-flow-lab\\src\\JobSimulator.csproj",
+        "projectPath": "C:\\Users\\giovanne.nascimento\\Projetos\\Estudos\\github-flow-lab\\src\\JobSimulator.csproj",
         "packagesPath": "C:\\Users\\giovanne.nascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giovanne.nascimento\\OneDrive - DEMARCO PARTICIPACOES E SERVICOS LTDA\\PROJETOS E BACKLOGS\\10 - PROJETOS E PROPOSTAS DE MELHORIAS(ENTREGA DE VALOR)\\5 - NOVO FLUXO PBIs E BRANCHS\\github-flow-lab\\src\\obj\\",
+        "outputPath": "C:\\Users\\giovanne.nascimento\\Projetos\\Estudos\\github-flow-lab\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
