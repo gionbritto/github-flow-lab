@@ -26,7 +26,7 @@ static async Task RunLogger()
     Console.WriteLine("[Log] Iniciando...");
     for (int i = 1; i <= 5; i++)
     {
-        Console.WriteLine($"[Log] Entrada #{i} registrada em {DateTime.Now:HH:mm:ss}"); 
+        Console.WriteLine($"[Log] Entrada #{i} registrada em {DateTime.UtcNow:HH:mm:ss}"); 
         await Task.Delay(800);
     }
     Console.WriteLine("[Log] Concluído.");
