@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JobSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42e6f673557916f3ddb7fb8ca88c5e87da7f4d35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e2ce77a31be77fa1ad6c5d5d19318e7c20ba7c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("JobSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JobSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
